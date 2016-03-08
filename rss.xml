@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EAJ CAMEROON Sarl]]></title>
+        <description><![CDATA[EAJ CAMEROON Sarl]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 13:54:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home Page]]></title>
+            <description><![CDATA[<article><h1>Home Page</h1><p>EAJ CAMEROON Sarl, are a Central Africa regional distribution company and a member of the EAJ International group of companies that specialize in the distribution of Tobacco products and Food Stuffs such as Frozen food, Canned and Packed foods and Beverages.</p></article>]]></description>
+            <link>undefinedhome-page/index.html</link>
+            <guid isPermaLink="false">5cfe71d0-2789-4dd6-a0be-9640fbdc3b61</guid>
+            <pubDate>Tue, 08 Mar 2016 13:53:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
